@@ -5,5 +5,10 @@
  Keep following me
  Click on Ingredients to view the ingredients to use 
  Click on recipe to view the recipe
- <a href="https://swetapadmaja.github.io/c26-myrecipe/ingredients.md">Ingredients</a>
-<a href = "https://swetapadmaja.github.io/c26-myrecipe/recipe.md">RECIPE</a>
+ <ul>
+  <li><a href="https://swetapadmaja.github.io/c26-myrecipe/ingredients.md">Ingredients</a></li>
+  <li><a href = "https://swetapadmaja.github.io/c26-myrecipe/recipe.md">RECIPE</a></li>
+  
+</ul>
+ 
+
