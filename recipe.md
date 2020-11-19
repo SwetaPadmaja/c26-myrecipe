@@ -1,3 +1,4 @@
+<html>
 <body style="background-color:powderblue;">
 <ul>
   <li>firstly, heat 1 tsp gingelly oil and roast spices till it relases.</li>
@@ -14,3 +15,4 @@
 <li>finally, puliyodharai/pulihora - temple style is ready to serve</li>
   </ul>
 </body>
+</html>
