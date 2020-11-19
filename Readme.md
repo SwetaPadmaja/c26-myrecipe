@@ -3,3 +3,4 @@
  This is a unique style of recipe which we find in South Indian temples
  We also call it as "Temple Style Puliyodharai"
  Keep following me
+ <a href="https://swetapadmaja.github.io/c26-myrecipe/ingredients.md">Ingredients</a>
