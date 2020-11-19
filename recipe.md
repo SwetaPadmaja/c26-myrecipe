@@ -1,8 +1,7 @@
-<html>
-<body style="background-color:powderblue;">
-<ul>
-  <li>firstly, heat 1 tsp gingelly oil and roast spices till it relases.</li>
-<li>further roast 1 tbsp sesame seeds till it turns golden brown.</li>
+
+
+  1.firstly, heat 1 tsp gingelly oil and roast spices till it relases.
+2.further roast 1 tbsp sesame seeds till it turns golden brown.
 <li>blend to fine powder and puliyodharai masala powder is ready.</li>
 <li>now in a large kadai heat 2 -3 tbsp gingelly oil.</li>
 <li>add in 1 tsp mustard, ½ tsp urad dal, ½ tsp chana dal and 2 tbsp peanuts. saute till mustard seeds splutter.</li>
