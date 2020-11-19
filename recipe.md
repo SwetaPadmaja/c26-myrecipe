@@ -1,4 +1,4 @@
-<body style="background-color:grey;">
+<body style="background-color:powderblue;">
 <ul>
   <li>firstly, heat 1 tsp gingelly oil and roast spices till it relases.</li>
 <li>further roast 1 tbsp sesame seeds till it turns golden brown.</li>
