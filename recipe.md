@@ -1,4 +1,4 @@
-
+<html>
 <ul>
 	<li>firstly, heat 1 tsp gingelly oil and roast spices till it relases.</li>
 	<li>further roast 1 tbsp sesame seeds till it turns golden brown.</li>
@@ -13,4 +13,4 @@
 	<li>now add 3 cup cooked rice and mix gently.( I prefer rice to be cooked ahead and let it cool)</li>
 	<li>finally, puliyodharai/pulihora - temple style is ready to serve</li>
   </ul>
-
+</html>
